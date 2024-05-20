@@ -1,6 +1,6 @@
-<div text-align = "center">
+<p text-align = "center">
   <img src = "https://i.pinimg.com/originals/3d/44/9e/3d449ea5615ec9daca0855c8dc391e46.gif" height = "auto">
-</div>
+</p>
 <h1 align="center">Hi 👋, I'm Roy Dadon</h1>
 <h3 align="center">An ambitious Computer Science student</h3>
 
