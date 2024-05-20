@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roy Dadon</h1>
 <h3 align="center">An ambitious Computer Science student</h3>
 
-<img src = "https://i.pinimg.com/originals/91/c9/79/91c9793902333497fdff623e6a2b293a.gif">
+<img src = "https://i.pinimg.com/originals/91/c9/79/91c9793902333497fdff623e6a2b293a.gif" align = "center">
 
 - 🌱 I’m currently learning **MySQL, Linux, Java and Machine Learning**
 
