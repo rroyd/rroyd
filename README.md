@@ -2,7 +2,8 @@
 <h3 align="center">An ambitious Computer Science student</h3>
 
 <div text-align = "center">
-<img src = "https://i.pinimg.com/originals/91/c9/79/91c9793902333497fdff623e6a2b293a.gif" align = "center">
+  <img src = "https://i.pinimg.com/originals/91/c9/79/91c9793902333497fdff623e6a2b293a.gif">
+  <img src = "https://i.pinimg.com/originals/3d/44/9e/3d449ea5615ec9daca0855c8dc391e46.gif">
 </div>
 
 - 🌱 I’m currently learning **MySQL, Linux, Java and Machine Learning**
