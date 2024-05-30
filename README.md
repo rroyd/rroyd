@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **roydadon1122@gmail.com**
 
-- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1TnabQP6TsvN-H7LzY55TND1uDzIy-kTV/view?usp=sharing"><b>Resume</b></a>
+- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1Qo5hmt9adTn8GF0mWN1M380eREijqxZm/view?usp=sharing"><b>Resume</b></a>
 
 - ⚡ Fun fact **I am also a graphic designer**
 
