@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MySQL, Linux, Java and Machine Learning**
 
-- 💬 Ask me about **C, CPP, and OPP**
+- 💬 Ask me about **Node.js, Express.js and RESTful API's**
 
 - 📫 How to reach me **roydadon1122@gmail.com**
 
